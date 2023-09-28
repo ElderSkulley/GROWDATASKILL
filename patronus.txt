@@ -52,4 +52,9 @@ HARRY'S PATRONUS
 
 ================================
 Ajaya is checking the code merge
+<<<<<<< HEAD
+>>>>>>> lily
+=======
+================================
+again checking if the auto merging 
 >>>>>>> lily
