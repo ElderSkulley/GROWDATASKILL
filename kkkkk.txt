@@ -1,2 +1,3 @@
 ajaya checking if the othere are affecting in github
 adding one line to use -u git push
+3rd line to check if only get push is working
