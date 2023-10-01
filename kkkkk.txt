@@ -1,1 +1,2 @@
 ajaya checking if the othere are affecting in github
+adding one line to use -u git push
